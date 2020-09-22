@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T02:01:09.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Hqb-zTQW_w41ujdRYOCF" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T02:04:11.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="6cbQ_8IGr8zT1MnVO420" version="13.7.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1295" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" background="#ffffff" math="0" shadow="0">
       <root>
@@ -134,8 +134,8 @@
             <mxPoint x="2810" y="2590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6EovEtZMzCxZlVtwhs3X-101" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Die größte Ernährungsgesellschaft&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;der Welt, die Academy of Nutrition and Dietetics, ist zu dem Schluss gekommen, dass eine vegane Ernährung für alle Phasen des Lebens inklusive Säuglingsalter, Schwangerschaft und für Athleten bedarfsdeckend sein kann.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Gibt es einen Nährstoff, wegen dem Sie denken, man könne nicht gesund Vegan leben?&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#66CC00;" parent="1" vertex="1">
-          <mxGeometry x="2940" y="2820" width="170" height="160" as="geometry" />
+        <mxCell id="6EovEtZMzCxZlVtwhs3X-101" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Die größte Ernährungsgesellschaft&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;der Welt, die Academy of Nutrition and Dietetics (AND) , ist zu dem Schluss gekommen, dass eine vegane Ernährung für alle Phasen des Lebens inklusive Säuglingsalter, Schwangerschaft und für Athleten bedarfsdeckend sein kann.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Gibt es einen Nährstoff, wegen dem Sie denken, man könne nicht gesund Vegan leben?&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#66CC00;" parent="1" vertex="1">
+          <mxGeometry x="2900" y="2790" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="6EovEtZMzCxZlVtwhs3X-102" value="" style="endArrow=classic;html=1;fillColor=#FFD966;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-bmlGtIo6D1VVbsq4e7--11" value="Also denken Sie es geht dem Tier schlecht, aber es berührt Sie nicht?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3520" y="2760" width="120" height="60" as="geometry" />
+          <mxGeometry x="3580" y="2750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-bmlGtIo6D1VVbsq4e7--13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Jobs,&lt;br&gt;Kosten&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2680" y="3470" width="60" height="80" as="geometry" />
@@ -238,8 +238,8 @@
             <mxPoint x="3110" y="2670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-bmlGtIo6D1VVbsq4e7--15" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Wir haben heutzutage Alternativen für die niemand leiden muss.&amp;nbsp;&lt;br&gt;Hier würde ich am Anfang nicht zuviel Zeit verwenden und andere Tierindustrien ansprechen.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Siehe Punkt 1&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="2660" width="220" height="130" as="geometry" />
+        <mxCell id="-bmlGtIo6D1VVbsq4e7--15" value="&lt;font style=&quot;font-size: 10px&quot;&gt;In Tierversuchen, werden Tiere häufig unfassbaren Qualen ausgesetzt und danach getötet, Außerdem sind die resultierenden Ergebnisse nur selten auf den Menschen übertragbar.&amp;nbsp;&lt;br&gt;Wir haben heutzutage Alternativen für die niemand leiden muss.&amp;nbsp;&lt;br&gt;Hier würde ich am Anfang nicht zuviel Zeit verwenden und andere Tierindustrien ansprechen.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Siehe Punkt 1&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="2660" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-bmlGtIo6D1VVbsq4e7--16" value="Tierversuche" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="2000" width="120" height="60" as="geometry" />
